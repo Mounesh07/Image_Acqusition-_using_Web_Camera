@@ -1,9 +1,6 @@
 
-# Image_Acqusition-_using_Web_Camera
+# Image Acqusition using Web Camera
 ## Aim
- 
-Aim:
- 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
 ii) Display the video 
@@ -115,27 +112,21 @@ cv2.destroyAllWindows()
 ## Output
 
 ### i) Write the frame as JPG image
-![Screenshot (121)](https://github.com/22009150/Image_Acqusition-_using_Web_Camera/assets/118708624/2b621ff4-4cc0-4b86-9b67-63df698938b2)
-
-
+![(https://github.com/mohan8900/Image_Acqusition-_using_Web_Camera/blob/main/306834696-5c319921-b55e-4ec5-a6f2-f2294b0a8e72.png)](https://github.com/mohan8900/Image_Acqusition-_using_Web_Camera/blob/main/306834696-5c319921-b55e-4ec5-a6f2-f2294b0a8e72.png)
 
 ### ii) Display the video
-
-![Screenshot (117)](https://github.com/22009150/Image_Acqusition-_using_Web_Camera/assets/118708624/3c40ef15-64d5-48a0-ab38-839e84f94f30)
+![Screenshot 2024-02-21 213311](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/d29f2b17-edf9-4bbe-906e-b6e5a9424d12)
 
 
 
 ### iii) Display the video by resizing the window
 
-
-![Screenshot (122)](https://github.com/22009150/Image_Acqusition-_using_Web_Camera/assets/118708624/e2711f42-8c38-4531-b674-d90504284eec)
-
+![Screenshot 2024-02-21 213416](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/49686dd1-a328-4909-a5f1-ddf0567ecff6)
 
 ### iv) Rotate and display the video
-![Screenshot (120)](https://github.com/22009150/Image_Acqusition-_using_Web_Camera/assets/118708624/c6335588-9644-4007-bd33-2baa37aee486)
 
 
-
+![Screenshot 2024-02-21 213518](https://github.com/Jaiganesh235/Image_Acqusition-_using_Web_Camera/assets/118657189/2fe12628-6724-41d5-9e06-15bbfa8eacb2)
 
 
 
